@@ -1,0 +1,10 @@
+﻿body {
+    background-image: url(dino.gif);
+}
+h1{
+    color:red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:large;
+    border:5px double blue;
+    
+}
